@@ -1,4 +1,4 @@
-# Discogs API
+# Discogs-APY
 A lightweight Python wrapper for the Discogs API.
 
 ### Usage
