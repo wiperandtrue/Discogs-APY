@@ -4,7 +4,7 @@ A lightweight Python wrapper for the Discogs API.
 ### Usage
 Initialise the client using your user token. No support for OAuth yet. Maybe I'll get around to it.
 ```
-client = DiscogsAPY.Client(user_token)
+client = Discogs-APY.Client(user_token)
 ```
 The client object has Release, Master, Artist, and Label methods. Calling them with a valid discogs ID will return an object of the same name:
 ```
